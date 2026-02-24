@@ -1,0 +1,5 @@
+OCaml (Functional) Statistics Calculator
+Input values: [4; 1; 2; 2; 3; 4; 5; 4; 2; 6; 7; 2; 4]
+Mean: 3.54
+Median: 4.00
+Mode(s): 2, 4 (frequency = 4)
